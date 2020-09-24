@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+    <catalogue category="Technical">
+        <book>
+            <isbn-13>9781596821125</isbn-13>
+            <title>Introduction to Linux</title>
+            <author>Machtelt Garrells</author>
+        </book>
+        <book>
+            <isbn-13>9780125660419</isbn-13>
+            <title>Scientific and Technical Libraries, Volume 1</title>
+            <author>Nancy J Pruett</author>
+        </book>
+    </catalogue>
+    <catalogue category="Cookery">
+        <book>
+            <isbn-13>9780470421352</isbn-13>
+            <title>The Professional Chef</title>
+            <author>The Culinary Institue of America</author>
+        </book>
+        <book>
+            <isbn-13>9781465463692</isbn-13>
+            <title>The Science of Cooking : Every Question Answered to Perfect Your Cooking</title>
+            <author>Dr Stuart Farrimond</author>
+        </book>
+    </catalogue>
+</library>
